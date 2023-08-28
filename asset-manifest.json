@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realtor-clone/static/css/main.914408f1.css",
+    "main.js": "/realtor-clone/static/js/main.86d84483.js",
+    "static/js/787.088761e0.chunk.js": "/realtor-clone/static/js/787.088761e0.chunk.js",
+    "index.html": "/realtor-clone/index.html",
+    "main.914408f1.css.map": "/realtor-clone/static/css/main.914408f1.css.map",
+    "main.86d84483.js.map": "/realtor-clone/static/js/main.86d84483.js.map",
+    "787.088761e0.chunk.js.map": "/realtor-clone/static/js/787.088761e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914408f1.css",
+    "static/js/main.86d84483.js"
+  ]
+}
